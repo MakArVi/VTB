@@ -59,12 +59,14 @@
     * [vtb_current_antifraud_practices.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/01_as_is_vtb/vtb_current_antifraud_practices.pdf) — Текущая практика ВТБ по 5 сценариям кейса
     * [vtb_fraud_statistics.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/01_as_is_vtb/vtb_fraud_statistics.pdf) — Статистика ВТБ и расчет стоимости False Positives
   * `02_benchmarks_and_law/`:
+    * [правовая_характеристика_кейса_втб.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/02_benchmarks_and_law/правовая_характеристика_кейса_втб.pdf) — Единый всеобъемлющий мастер-документ правового анализа (161-ФЗ, 31-ФЗ, ОД-2506, ГК РФ, ВС РФ, 115-ФЗ, лимиты, комплаенс ЦБ)
     * [бенчмарк_банков_рф_антифрод.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/02_benchmarks_and_law/бенчмарк_банков_рф_антифрод.pdf) — Бенчмарк банков РФ (Сбербанк, Т-Банк, Альфа vs ВТБ)
     * [судебная_практика_и_реальные_кейсы.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/02_benchmarks_and_law/судебная_практика_и_реальные_кейсы.pdf) — Практика ВС РФ (Определения № 5-КГ23-146-К2 и № 5-КГ23-82-К2), 161-ФЗ/31-ФЗ/683-П и 4 Case Studies
     * [foreign_banks_antifraud.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/02_benchmarks_and_law/foreign_banks_antifraud.pdf) — Зарубежный опыт (PSR, Money Lock, BioCatch)
     * [Правовой_анализ_161-ФЗ_ВТБ.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/02_benchmarks_and_law/Правовой_анализ_161-ФЗ_ВТБ.pdf) — 12 признаков ОБДС и закон 161-ФЗ
     * [юридическое_обоснование_втб_сейф.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/02_benchmarks_and_law/юридическое_обоснование_втб_сейф.pdf) — Правовая защита 24ч Time-Lock и регламент при ЧП
   * `03_solution_and_tech/`:
+    * [гайд_ответов_на_вопросы_жюри_qa.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/03_solution_and_tech/гайд_ответов_на_вопросы_жюри_qa.pdf) — Антикризисный Q&A гайд защиты: 12 жестких вопросов жюри с эталонными ответами
     * [экономика_внедрения_втб_защита.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/03_solution_and_tech/экономика_внедрения_втб_защита.pdf) — Детальный сметный расчет внедрения (CAPEX 50 млн, FTE, ставки, WBS на 6 месяцев)
     * [детализация_уровней_втб_защита_матрица.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/03_solution_and_tech/детализация_уровней_втб_защита_матрица.pdf) — Паспорт матрицы 4 уровней: изменения -> банк -> право -> польза -> метрики
     * [единое_комплексное_решение_втб_защита.pdf](file:///C:/Hub/04_case_champ/CUP_moscow/02_research/03_solution_and_tech/единое_комплексное_решение_втб_защита.pdf) — Единый Мастер-документ (Whitepaper): Стратегия, As-Is/To-Be, Право, Unit Economics, Бенчмарк, Roadmap
